@@ -1,0 +1,5 @@
+export const CHAVES_STORAGE = {
+    LISTA_TAREFAS: 'LISTA_TAREFAS',
+    USUARIO_LOGADO: 'USUARIO_LOGADO',
+  };
+  
